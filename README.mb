@@ -1,0 +1,127 @@
+
+
+Smart Finance Manager (C++ Console Application)
+Project Description
+
+Smart Finance Manager is a console-based financial tracking system developed in C++.
+The application allows users to manage income and expenses, calculate balance, analyze spending categories, and store data in files.
+
+This project demonstrates advanced C++ concepts including:
+
+Object-Oriented Programming (OOP)
+
+Smart pointers (std::unique_ptr)
+
+STL containers (vector, map)
+
+Algorithms (std::sort, lambdas)
+
+Exception handling
+
+File I/O
+
+enum class
+
+Data processing logic
+
+🎯 Project Purpose
+
+The purpose of this project is to help users:
+
+Track personal income and expenses
+
+Analyze spending habits
+
+Calculate financial balance
+
+Store and load financial data
+
+It is designed as a practical real-world application of C++ programming skills.
+
+👥 Target Audience
+
+Students
+
+Individuals managing personal finances
+
+Beginner investors
+
+Anyone learning C++ and data processing
+
+⚙️ Features
+
+✅ Add income
+✅ Add expense
+✅ View all transactions
+✅ Calculate balance
+✅ Sort transactions by amount
+✅ View expense statistics by category
+✅ Save data to file
+✅ Load data from file
+
+🏗 Technologies Used
+
+C++17
+
+STL (Standard Template Library)
+
+File Streams (fstream)
+
+Smart Pointers
+
+Exception Handling
+
+🖥 How to Compile and Run
+🔹 If using g++
+
+Make sure g++ is installed.
+
+Compile:
+
+g++ main.cpp -o finance
+
+
+Run:
+
+finance
+
+🔹 If using Visual Studio (cl compiler)
+
+Open Developer Command Prompt and run:
+
+cl main.cpp
+main
+
+📂 File Structure
+main.cpp
+README.md
+finance.txt (generated automatically after saving)
+
+📊 Example Use Case
+
+User adds income (salary).
+
+User adds expenses (food, transport).
+
+User checks total balance.
+
+User views statistics for expense categories.
+
+Data is saved for future sessions.
+
+🚀 Future Improvements
+
+Add date tracking for transactions
+
+Add monthly/yearly analytics
+
+Implement data encryption
+
+Add graphical interface (HTML/CSS/JS frontend)
+
+Database integration
+
+👨‍💻 Author
+
+Idiris Dabyl
+C++ Final Project
